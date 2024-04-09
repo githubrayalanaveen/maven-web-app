@@ -6,7 +6,7 @@
   
   <h2> My Name : + Rayala Naveen</h2>
   
-  <h3> Residence : Hyderbad </h3>
+  <h3> Residence : Lanco, Hyderbad </h3>
 
 </body>
 </html>
