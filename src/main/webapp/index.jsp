@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to RAYALA NAVEEN's DEN <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">This is Rayala Naveen's Tech Groundwork</a>
+<a href="https://www.linkedin.com/in/rayala-naveen-pmp%C2%AE-0746073/">This is Rayala Naveen's Tech Groundwork</a>
   
   <h2> My Name : + Rayala Naveen</h2>
   
